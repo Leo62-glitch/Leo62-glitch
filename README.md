@@ -1,19 +1,31 @@
-🚀 AI Enthusiast | Creative Coder
-Hi, I’m passionate about Artificial Intelligence, especially in fields like deep learning, generative models, and human-computer interaction. I enjoy building smart systems that can see, think, and even create.
+# Welcome to my lab 🧪🤖
 
-🧠 I love experimenting with:
+<!--
 
-    Neural networks (CNNs, RNNs, Transformers)
+  "The future belongs to those who code it."
+      — Anonymous AI
 
-    Generative models (GANs, VAEs, Diffusion)
+-->
 
-    Natural language processing and computer vision
+Hello there! I'm a French **AI enthusiast and creative coder**.  
+I'm passionate about building intelligent systems that learn, create, and interact.
 
-    Open-source projects and AI research prototypes
+> [!NOTE]
+>
+> **My favorite languages and tools**
+>
+> [![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)  
+> [![AI & Data Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker)](https://skillicons.dev)
+>
+> I enjoy working on:  
+> - 🤖 Neural networks and deep learning  
+> - 🧠 NLP & computer vision projects  
+> - 🎨 Generative models (GANs, Diffusion, Transformers)  
+> - ⚙️ AI in real-time environments and edge devices  
+> - 🧪 Creative and experimental coding  
 
-💡 I’m always learning, hacking, and sharing. Whether it’s building a real-time image classifier in TensorFlow.js, fine-tuning language models, or collaborating on creative AI tools, I thrive where code meets intelligence.
+> [!TIP]
+>
+> **Let’s connect or collaborate on an AI project!**
 
-🔧 Technologies I often use:
-Python · PyTorch · TensorFlow · Keras · Hugging Face
-
-📬 Let’s connect! Feel free to check out my projects or reach out if you're interested in collaborating on cool AI stuff.
+[![Contact](https://skillicons.dev/icons?i=github,discord,gmail)](social.md)
