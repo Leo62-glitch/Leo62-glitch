@@ -1,16 +1,19 @@
-## Hi there 👋
+🚀 AI Enthusiast | Creative Coder
+Hi, I’m passionate about Artificial Intelligence, especially in fields like deep learning, generative models, and human-computer interaction. I enjoy building smart systems that can see, think, and even create.
 
-<!--
-**Leo62-glitch/Leo62-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I love experimenting with:
 
-Here are some ideas to get you started:
+    Neural networks (CNNs, RNNs, Transformers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Generative models (GANs, VAEs, Diffusion)
+
+    Natural language processing and computer vision
+
+    Open-source projects and AI research prototypes
+
+💡 I’m always learning, hacking, and sharing. Whether it’s building a real-time image classifier in TensorFlow.js, fine-tuning language models, or collaborating on creative AI tools, I thrive where code meets intelligence.
+
+🔧 Technologies I often use:
+Python · PyTorch · TensorFlow · Keras · Hugging Face
+
+📬 Let’s connect! Feel free to check out my projects or reach out if you're interested in collaborating on cool AI stuff.
