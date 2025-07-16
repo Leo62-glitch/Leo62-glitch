@@ -14,7 +14,7 @@ I'm passionate about building intelligent systems that learn, create, and intera
 >
 > **My favorite languages and tools**
 >
-> [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+> [![My Skills](https://skillicons.dev/icons?i=python,gcp,linux)](https://skillicons.dev)  
 > [![AI & Data Stack](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 >
 > I enjoy working on:  
